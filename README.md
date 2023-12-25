@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon CI/CD pipeline deploying to ECS Fargate using CDK V2
 _A complete DevOps enabled sample containerized application_
 
@@ -193,3 +194,7 @@ is pushed live.
 
 ## License
 This library is licensed under the MIT-0 License. See the [LICENSE](/LICENSE) file.
+=======
+# amazon-ecs-fargate-cdk-v2-cicd
+R&amp;D for ECS and CI/CD on AWS
+>>>>>>> 435c6c136fe6a99fb62faf83652b86caefc34b1b
